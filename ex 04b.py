@@ -1,0 +1,10 @@
+n = input('digite algo: ')
+
+print(f'O tipo primitivo é: {type(n)}')
+print(f'é alfanumerico? {n.isalnum ()}')
+print(f'é alfabetico? {n.isalpha()}')
+print(f'é minusculo? {n.islower()}')
+print(f'está em ascii? {n.isascii()}')
+print(f'é um decimal? {n.isdecimal()}')
+print(f'é printável? {n.isprintable()}')
+print(f'é maiusculo? {n.isupper()}')
