@@ -7,7 +7,7 @@ de tinta pinta uma área de 2 metros quadrados.
 largura = float(input('Largura da parede: '))
 altura = float(input('Altura da parede: '))
 area = largura * altura
-print(f'A área da parede é {area}')
+print(f'A área da parede é {area:.2f}')
 print(f'E a quantidade de tinta necessária será de: {(area)/2:.2f} litros')
 
 
