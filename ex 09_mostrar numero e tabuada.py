@@ -17,16 +17,18 @@ tab_10 = n*10
 print(f'A tabuada do número {n} está abaixo:\n')
 
 #print aqui está correto, porém, como no comentário abaixo, não seria necessário criar inúmeras variáveis
-print(f'{n}x1 = {tab_1}')
-print(f'{n}x2 = {tab_2}')
-print(f'{n}x3 = {tab_3}')
-print(f'{n}x4 = {tab_4}')
-print(f'{n}x5= {tab_5}')
-print(f'{n}x6= {tab_6}')
-print(f'{n}x7= {tab_7}')
-print(f'{n}x8= {tab_8}')
-print(f'{n}x9= {tab_9}')
-print(f'{n}x10= {tab_10}')
+print('--------')
+print(f'{n} x 1 = {tab_1}')
+print(f'{n} x 2 = {tab_2}')
+print(f'{n} x 3 = {tab_3}')
+print(f'{n} x 4 = {tab_4}')
+print(f'{n} x 5 = {tab_5}')
+print(f'{n} x 6 = {tab_6}')
+print(f'{n} x 7 = {tab_7}')
+print(f'{n} x 8 = {tab_8}')
+print(f'{n} x 9 = {tab_9}')
+print(f'{n} x 10 = {tab_10}')
+print('--------')
 
 """
 Variáveis desnecessárias
